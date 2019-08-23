@@ -1,4 +1,4 @@
-# LoopAndConditionVueJS
+# LoopAndConditionalVueJS
 # Author: Truong Giang, Huynh
 
 How to use v-if/v-else/v-show and v-for to read the data and interact with DOM
